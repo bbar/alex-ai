@@ -1,0 +1,17 @@
+{
+  "name": "alex-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.5.1",
+    "@tensorflow/tfjs-node": "^1.4.0",
+    "@types/mathjs": "^6.0.3",
+    "mathjs": "^6.5.0"
+  }
+}
