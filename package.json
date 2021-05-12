@@ -12,6 +12,6 @@
     "@tensorflow/tfjs": "^1.5.1",
     "@tensorflow/tfjs-node": "^1.4.0",
     "@types/mathjs": "^6.0.3",
-    "mathjs": "^6.5.0"
+    "mathjs": "^7.5.1"
   }
 }
